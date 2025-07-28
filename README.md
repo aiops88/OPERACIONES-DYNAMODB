@@ -1,2 +1,2 @@
 # OPERACIONES-DYNAMODB
-Firts Operations with DynamoDB
+First Operations with DynamoDB
